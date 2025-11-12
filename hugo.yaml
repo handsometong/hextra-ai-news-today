@@ -1,4 +1,5 @@
 # Hugo configuration file
+baseURL: https://ainewstoday.app/
 title: AI NEWS TODAY的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态
 
 timezone: Asia/Shanghai
