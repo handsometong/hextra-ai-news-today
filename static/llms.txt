@@ -6,8 +6,8 @@
 
 ## 核心内容 (Core Content)
 - [文章索引](https://ai.hubtoday.app): 本站所有公开文章的索引，是理解本站内容的主要入口。
-- [关于我们](https://ai.hubtoday.app/about): 介绍本站的使命、愿景和内容创作理念。
+- [关于我们](https://ainewstoday.app/about): 介绍本站的使命、愿景和内容创作理念。
 
 ## Optional
-- [网站地图](https://ai.hubtoday.app/sitemap.xml): 包含所有人类可读页面的完整列表，可用于发现本站未在上面列出的其他内容。
-- [联系方式](https://ai.hubtoday.app/contact): 如何联系我们的团队。
+- [网站地图](https://ainewstoday.app/sitemap.xml): 包含所有人类可读页面的完整列表，可用于发现本站未在上面列出的其他内容。
+- [联系方式](https://ainewstoday.app/contact): 如何联系我们的团队。

@@ -64,13 +64,13 @@ params:
   ahrefsKey-del: "Qe0ZpZJ6/W8rgMFnLgk4kg"
   description: 个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态
   descriptionEn: Your daily source for curated AI news, practical tools, and actionable tutorials to master Artificial Intelligence;
-  logo: "images/logo-dark.png"
+  logo: "images/logo-dark.jpg"
   
   author:
     name: "AI NEWS TODAY的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
     bio: "去海边整点薯条"
     email: "justlikemaki@qq.com"
-    website: "https://ai.hubtoday.app/about/"
+    website: "https://ainewstoday.app/about/"
     social:
       - name: "GitHub"
         url: "https://github.com/justlovemaki"
@@ -78,7 +78,7 @@ params:
   publisher:
     type: "Person" 
     name: "AI NEWS TODAY的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
-    url: "https://ai.hubtoday.app/about/"
+    url: "https://ainewstoday.app/about/"
     sameAs:
       - "https://github.com/justlovemaki"
       
@@ -89,8 +89,8 @@ params:
     displayTitle: false
     displayLogo: true
     logo:
-      path: images/logo.png
-      dark: images/logo-dark.png
+      path: images/logo.jpg
+      dark: images/logo-dark.jpg
       width: 175
       height: 50
 
@@ -147,5 +147,5 @@ languages:
   en:
     contentDir: content/en
     languageName: English
-    title: "AI NEWS TODAY's AI Daily | AI News | AI Tools | AI Insights"
+    title: "AI News Today | AI News | AI Tools | AI Insights"
     weight: 2

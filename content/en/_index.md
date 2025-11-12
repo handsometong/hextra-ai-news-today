@@ -1,6 +1,6 @@
 ---
-linkTitle: AI Daily
-title: AI Daily-AI资讯日报
+linkTitle: AI News Today
+title: AI News Today-AI资讯日报
 breadcrumbs: false
 next: /en/2025-11/2025-11-09
 description: Your daily source for curated AI news, practical tools, and actionable
@@ -10,7 +10,7 @@ cascade:
 ---
 ## AI News Daily 2025/11/10
 
-> AI News | Daily Morning Read | Web Data Aggregation | Cutting-Edge Science Exploration | Industry Open Mic | Open Source Innovation Power | AI and Humanity's Future | [Visit Web Version 🌐](https://ai.hubtoday.app/) | [Join Community Chat 💬](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> AI News | Daily Morning Read | Web Data Aggregation | Cutting-Edge Science Exploration | Industry Open Mic | Open Source Innovation Power | AI and Humanity's Future | [Visit Web Version 🌐](https://ainewstoday.app/) | [Join Community Chat 💬](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
 ### **Today's Digest**
 

@@ -14,7 +14,7 @@ on:
 
   # 也可以设置定时触发，例如每天凌晨1点 (UTC时间)
   schedule:
-    - cron: '0 22 * * *' # 每天 UTC 时间 0 点运行 (北京时间早上6点)
+    - cron: '0 02 * * *' # 每天 UTC 时间 0 点运行 (北京时间早上6点)
 
 jobs:
   build-and-commit:
@@ -26,6 +26,9 @@ jobs:
       # 第0步：检出当前仓库代码
       - name: Checkout current repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # 第1步：拉取源仓库代码
       - name: Clone source repository
@@ -256,7 +259,7 @@ jobs:
           echo "--- 步骤 4: 更新主索引页面 (content/cn/_index.md) ---"
           TARGET_INDEX="$TARGET_CONTENT_DIR/_index.md"
           
-          FRONTMATTER="---\nlinkTitle: AI Daily\ntitle: AI Daily-AI资讯日报\nbreadcrumbs: false\n"
+          FRONTMATTER="---\nlinkTitle: AI News Today\ntitle: AI News Today-AI资讯日报\nbreadcrumbs: false\n"
           # The 'next' link should point to the second latest note, which is now an archived page.
           if [ -n "$SECOND_LATEST_NOTE" ] && [ "$LATEST_NOTE" != "$SECOND_LATEST_NOTE" ]; then # Ensure there IS a second latest note
             FILENAME_SECOND_LATEST=$(basename "$SECOND_LATEST_NOTE" .md)
@@ -280,3 +283,6 @@ jobs:
           file_pattern: 'content/*' # Only commit changes in content directory
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
+          push_options: '--force'
+          skip_fetch: false
+          skip_checkout: false
