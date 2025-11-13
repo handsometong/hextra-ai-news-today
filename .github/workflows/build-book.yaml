@@ -6,7 +6,7 @@ on:
       source_repo:
         description: '要拉取代码的源仓库 (格式: owner/repo)'
         required: true
-        default: 'handsometong/ai-news-today' # <<< 请修改为你的源仓库
+        default: 'justlovemaki/CloudFlare-AI-Insight-Daily' # <<< 请修改为你的源仓库
       source_branch:
         description: '要拉取的源分支'
         required: true
@@ -34,7 +34,7 @@ jobs:
       - name: Clone source repository
         uses: actions/checkout@v4
         with:
-          repository: ${{ github.event.inputs.source_repo || 'handsometong/ai-news-today' }} # Fallback to default if not provided by manual trigger
+          repository: ${{ github.event.inputs.source_repo || 'justlovemaki/CloudFlare-AI-Insight-Daily' }} # Fallback to default if not provided by manual trigger
           ref: ${{ github.event.inputs.source_branch || 'book' }} # Fallback to default
           path: 'clone'
 
