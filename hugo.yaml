@@ -1,6 +1,6 @@
 # Hugo configuration file
 baseURL: https://ainewstoday.app/
-title: AI NEWS TODAY的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态
+title: AI News Today
 
 timezone: Asia/Shanghai
 enableRobotsTXT: true
@@ -87,13 +87,13 @@ params:
   dateFormat: "2006/01/02 15:04:05"
 
   navbar:
-    displayTitle: false
+    displayTitle: true
     displayLogo: true
     logo:
       path: images/logo.png
-      dark: images/logo-dark.png
-      width: 175
-      height: 50
+      dark: images/logo_dark.png
+      width: 40
+      height: 40
 
 
   footer:
