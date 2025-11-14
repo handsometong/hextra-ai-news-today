@@ -1,28 +1,33 @@
 ---
-title: Contact Us
+title: Contact
 type: page
 sidebar:
   exclude: true
 ---
 
-# 联系我
+# Contact
 
-我非常乐意听取您的意见和建议。如果您有任何问题、合作意向或需要支持，请通过以下方式与我联系。
-
-我承诺会尽快回复您的邮件。
+Whether you want to share feedback, pitch a story, or explore a partnership, this is the place to start. Please mention the purpose in your subject line so I can route it quickly.
 
 ---
 
-## **联系方式**
+## Collaboration scenarios
 
-*   **电子邮件 (Email):**
-    *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
+### 1. Editorial features & interviews
+- Tell the story of your product, research, or workflow.
+- Provide core materials and schedule a 30-minute prep call.
 
-*   **个人微信 (Wechat):**
-    *   {{< cards >}}
-        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="个人微信" subtitle="欢迎加我交流" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
-        {{< /cards >}}
+### 2. Community events & talks
+- Invite me to speak about AI industry takeaways, workflow design, or indie hacking.
+- Share logistics (topic, audience, recording plan) so we can align expectations.
 
-*   **工作时间 (Office Hours):**
-    *   周一至周五, 上午 9:00 - 下午 6:00 (GMT+8)
-    *   (周末及法定节假日休息)
+### 3. Media / institutional partnerships
+- Request content licensing, co-branded columns, or sponsorship packages.
+- Include distribution channels, launch timeline, and success metrics.
+
+### 4. Urgent matters
+- If you spot factual errors or copyright issues, mark the email subject as “URGENT” with supporting details. These take priority.
+
+---
+
+**Availability**: Monday–Friday, 09:00–18:00 GMT+8. Weekend or holiday requests may take longer, but I will get back to you. Thanks for reaching out!

@@ -68,12 +68,12 @@ menu:
       weight: 2
     - identifier: about      
       name: 关于我 ↗
-      url: "https://github.com/justlovemaki"
+      url: "https://github.com/handsometong"
       weight: 3
     - identifier: github   
       name: GitHub
       weight: 4
-      url: "https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily"
+      url: "https://github.com/handsometong/ai-news-today"
       params:
         icon: github
 
@@ -92,14 +92,14 @@ params:
     website: "https://ainewstoday.app/about/"
     social:
       - name: "GitHub"
-        url: "https://github.com/justlovemaki"
+        url: "https://github.com/handsometong"
         
   publisher:
     type: "Person" 
     name: "AI NEWS TODAY的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
     url: "https://ainewstoday.app/about/"
     sameAs:
-      - "https://github.com/justlovemaki"
+      - "https://github.com/handsometong"
       
   displayUpdatedDate: true
   dateFormat: "2006/01/02 15:04:05"
@@ -150,7 +150,7 @@ params:
     type: giscus
 
     giscus:
-      repo: justlovemaki/Hextra-AI-Insight-Daily
+      repo: handsometong/ai-news-today
       repoId: R_kgDOO_2Owg
       category: Announcements
       categoryId: DIC_kwDOO_2Ows4Cr2Q0

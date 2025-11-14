@@ -5,50 +5,68 @@ sidebar:
   exclude: true
 ---
 
-# 服务条款
+# Terms of Service
 
-*生效日期：2025年6月1日*
+*Effective date: 1 June 2025*
+
+Thanks for visiting **AI News Today** (“the Site”). By accessing or using any part of the service you agree to the following terms. If you disagree, please discontinue use.
 
 ---
 
-欢迎访问 **ai.hubtoday**（以下简称“**本站**”或“**我们**”）。请在使用本站服务之前，仔细阅读以下服务条款。您访问或使用本站即表示您同意并接受本条款。
+## 1. Service overview
 
-## 1. 服务简介
-本站为用户提供付费订阅内容和会员服务，包括但不限于博客文章、专属资源、电子书、社区互动等。部分内容仅限订阅用户访问。
+- We publish AI briefings, long-form articles, downloadable resources, and community updates.
+- Certain features are limited to registered users, subscribers, or partners.
+- Features may change over time; we aim to announce major updates in advance.
 
-## 2. 用户注册与账户
-- 用户需提供有效的电子邮件地址和设置密码以注册账户。
-- 用户应对其账户的安全性和所有活动负责，**禁止**将账户转让或共享。
-- 本站有权在用户违反本条款的情况下，**暂停或终止**其账户。
+## 2. Accounts & security
 
-## 3. 付费订阅服务
-- 订阅服务基于月度/年度计费，费用在结算页面明示。
-- 所有付款通过第三方支付平台（如 Stripe、PayPal）完成，本站不存储您的支付信息。
-- 订阅将**自动续费**，除非您在当前计费周期结束前取消。
-- **14天退款政策**：首次订阅服务的用户，自购买之日起14天内，如对服务不满意，可申请全额退款。请通过本条款末尾提供的联系邮箱与我们联系并说明退款原因。每位用户仅限一次退款机会。超过14天或非首次订阅的，除非法律强制规定，付款后**不予退款**。
+- Provide accurate information when registering and keep your credentials confidential.
+- Notify us immediately if you suspect unauthorized use. You are responsible for activity that happens under your account.
+- We may suspend or terminate accounts that are fraudulent, abusive, or inactive for long periods.
 
-## 4. 内容使用与知识产权
-- 所有原创内容**版权归本站 (hubtoday) 所有**，未经授权不得复制、转载或用于商业用途。
-- 用户仅获得**非排他、不可转让的访问权**，用于个人学习和阅读。
-- 如需商业用途或大量引用，请联系本站获取授权。
+## 3. Payments & subscriptions
 
-## 5. 用户行为规范
-- **禁止**上传、发布或传播任何非法、骚扰、虚假、攻击性、侵犯他人权利的内容。
-- **禁止**通过技术手段批量下载、抓取、破解会员内容。
-- 本站有权移除不当内容并**封禁违规用户**。
+- Pricing, billing cycles, and refund options are shown on the checkout page.
+- Plans renew automatically unless you cancel through your account or payment provider.
+- Except for legally required refunds or trial guarantees, payments for delivered services are non-refundable.
 
-## 6. 服务变更与中断
-- 我们保留随时更改、暂停或终止部分或全部服务的权利，恕不另行通知。
-- 如因不可抗力、服务器故障或第三方服务中断导致内容暂时无法访问，本站**不承担赔偿责任**。
+## 4. Content & intellectual property
 
-## 7. 免责声明
-- 本站提供的信息仅供参考，**不构成**任何专业建议（如财务、法律、医疗等）。
-- 对于用户因使用本站内容或服务所产生的任何直接或间接损失，本站**概不负责**。
+- Original content (text, images, audio/video, data) is owned by handsometong or licensed partners.
+- You may not copy, resell, bulk scrape, or redistribute content without written permission.
+- When quoting our work, include attribution and respect third-party license terms.
 
-## 8. 法律适用
-- 本服务条款适用美国加利福尼亚州法律，并按其解释，不考虑法律冲突原则。
-- 因本条款引起的或与本条款相关的任何争议，双方应首先友好协商解决；若协商未果，您同意提交加利福尼亚州圣克拉拉县具有管辖权的法院解决。
+## 5. User responsibilities
 
-## 9. 联系方式
-- 如对本条款有任何疑问，请通过以下方式联系我们：
-- 📧 **邮箱**： [justlikemaki@foxmail.com](mailto:justlikemaki@foxmail.com)
+Do not:
+- Upload illegal, infringing, defamatory, hateful, or pornographic material.
+- Send spam, run competing marketing campaigns, or solicit users without consent.
+- Use bots, crawlers, reverse engineering, or exploits to harm the service.
+- Impersonate others or submit misleading information.
+
+We reserve the right to remove content, restrict access, and pursue legal remedies if necessary.
+
+## 6. Third-party links
+
+The Site may contain links to external services. They operate independently; please review their terms and privacy practices before using them. We are not responsible for their content or actions.
+
+## 7. Disclaimers
+
+- Content is provided for informational purposes only and should not be treated as financial, legal, medical, or other professional advice.
+- We strive for accuracy but cannot guarantee completeness or timeliness. You assume all risk from using the information.
+- We are not liable for losses caused by force majeure events, network outages, or third-party failures.
+
+## 8. Termination & changes
+
+- We may terminate or suspend access if you violate these terms or harm the community.
+- When we update the terms, we will post the revision date and, for major changes, notify you via the Site or email. Continued use means you accept the updated terms.
+
+## 9. Governing law & disputes
+
+- These terms are governed by the laws of the State of California, USA, without regard to conflict-of-law principles.
+- Disputes should first be resolved through good-faith negotiation; if unresolved, they shall be submitted to the courts located in Santa Clara County, California.
+
+## 10. Contact
+
+Questions about these terms? Email [justlikemaki@foxmail.com](mailto:justlikemaki@foxmail.com) for assistance or authorization requests.
