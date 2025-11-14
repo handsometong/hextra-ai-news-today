@@ -1,6 +1,6 @@
 # Hugo configuration file
 baseURL: https://ainewstoday.app/
-title: AI News Today
+title: AI NEW TODAY
 
 timezone: Asia/Shanghai
 enableRobotsTXT: true
@@ -138,7 +138,7 @@ params:
       categoryId: DIC_kwDOO_2Ows4Cr2Q0
 
 
-defaultContentLanguage: zh
+defaultContentLanguage: en
 languages:
   zh:
     languageCode: zh-CN
@@ -148,5 +148,5 @@ languages:
   en:
     contentDir: content/en
     languageName: English
-    title: "AI News Today | AI News | AI Tools | AI Insights"
+    title: "AI NEWS TODAY"
     weight: 2

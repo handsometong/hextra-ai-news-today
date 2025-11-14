@@ -178,12 +178,12 @@ html:not(.dark) .content :where(code):not(:where(.hextra-code-block code,[class~
 
 
 /* =================================================================== */
-/*                      Dark Theme "Pornhub" Style                     */
+/*                      Dark Theme Brand Color Style                   */
 /* =================================================================== */
 html.dark {
-  --primary-hue: 36deg;
-  --primary-saturation: 100%;
-  --primary-lightness: 50%;
+  --primary-hue: 204deg;  /* 蓝色色调 */
+  --primary-saturation: 70%;
+  --primary-lightness: 45%;
 }
 
 .hextra-footer:is(html[class~=dark] *),
@@ -202,22 +202,31 @@ body:is(html[class~=dark] *) {
   transition: color 0.2s ease-in-out;
 }
 
+/* Logo 旁边的站点标题文字（暗色主题） - 使用品牌蓝色 */
+html.dark .hx-font-semibold {
+  color: #174C7C !important;
+}
+
+html.dark a[href="/"] .hx-font-semibold {
+  color: #174C7C !important;
+}
+
 .nav-container a:hover:is(html[class~=dark] *),
 .nav-container a:hover svg:is(html[class~=dark] *),
 .nav-container button:hover svg:is(html[class~=dark] *) {
-  color: #ff9900 !important;
+  color: #174C7C !important;
 }
 
 .hamburger-menu:is(html[class~=dark] *) {
   color: #ffffff;
 }
 .hamburger-menu:hover:is(html[class~=dark] *) {
-  color: #ff9900 !important;
+  color: #174C7C !important;
 }
 
 .content :where(code):not(:where(.hextra-code-block code,[class~=not-prose],[class~=not-prose] *)):is(html[class~=dark] *) {
   background-color: #2a2a2a;
-  color: #ff9900;
+  color: #174C7C;
   border: 1px solid #444;
 }
 
@@ -241,18 +250,18 @@ body:is(html[class~=dark] *) {
 .dark .highlight .chroma .nf { color: #d2a8ff !important; font-weight: 700; }
 
 .chroma .hl:is(html[class~=dark] *) {
-  background-color: rgba(255, 153, 0, 0.15) !important;
+  background-color: rgba(23, 76, 124, 0.15) !important;
 }
 
 .hextra-code-copy-btn:hover:is(html[class~=dark] *) {
   background-color: #2a2a2a;
-  color: #ff9900;
+  color: #174C7C;
 }
 
 .content :where(a):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~=dark] *),
 .content :where(blockquote):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~=dark] *) {
-  color: #ff9900;
-  border-left-color: #ff9900;
+  color: #174C7C;
+  border-left-color: #174C7C;
 }
 .content :where(a):not(:where([class~=not-prose],[class~=not-prose] *)):hover:is(html[class~=dark] *) {
   color: #fff;
@@ -268,57 +277,57 @@ body:is(html[class~=dark] *) {
   color: #f0f0f0;
 }
 .hextra-card:hover:is(html[class~=dark] *) {
-  border-color: #ff9900;
-  box-shadow: 0 0 15px rgba(255, 153, 0, 0.2);
+  border-color: #174C7C;
+  box-shadow: 0 0 15px rgba(23, 76, 124, 0.2);
 }
 
 .hextra-badge:is(html[class~=dark] *) {
-  background-color: #ff9900;
-  color: #000;
+  background-color: #174C7C;
+  color: #fff;
   font-weight: bold;
 }
 
 .sidebar-active-item:is(html[class~=dark] *) {
-  color: #ff9900 !important;
+  color: #174C7C !important;
   font-weight: bold;
-  background-color: rgba(255, 153, 0, 0.1);
+  background-color: rgba(23, 76, 124, 0.1);
   border-radius: 4px;
 }
 .dark\:hover\:hx-bg-primary-100\/5:hover:is(html[class~=dark] *) {
-    background-color: rgba(255, 153, 0, 0.1);
+    background-color: rgba(23, 76, 124, 0.1);
 }
 .sidebar-container a:hover:is(html[class~=dark] *) {
-  color: #ff9900;
+  color: #174C7C;
 }
 .sidebar-container a:is(html[class~=dark] *) {
   color: #fff;
 }
 
 .search-wrapper li .active:is(html[class~=dark] *) {
-    background-color: rgba(255, 153, 0, 0.15);
+    background-color: rgba(23, 76, 124, 0.15);
 }
 .search-wrapper .match:is(html[class~=dark] *) {
-    color: #ff9900;
+    color: #174C7C;
 }
 .search-input:is(html[class~=dark] *) {
   border-color: #444;
 }
 .search-input:focus:is(html[class~=dark] *) {
-  border-color: #ff9900;
+  border-color: #174C7C;
 }
 
 .hextra-tabs-toggle[data-state=selected]:is(html[class~=dark] *) {
-  border-bottom: 2px solid #ff9900;
-  color: #ff9900;
+  border-bottom: 2px solid #174C7C;
+  color: #174C7C;
 }
 
 strong:is(html[class~=dark] *) {
-    color: #f90;
+    color: #174C7C;
     padding: 3px;
 }
 
 .content :where(h3):not(:where([class~=not-prose],[class~=not-prose] *)):is(html[class~=dark] *) {
-    color: #f90;
+    color: #174C7C;
 }
 
 /* =================================================================== */
@@ -375,6 +384,15 @@ html:not(.dark) .nav-container .nextra-nav-title {
 
 html:not(.dark) .nav-container .nextra-nav-title:hover {
   color: #0f3655 !important;
+}
+
+/* 2.2 Logo 旁边的站点标题文字（亮色主题） */
+html:not(.dark) .hx-font-semibold {
+  color: #174C7C !important;
+}
+
+html:not(.dark) a[href="/"] .hx-font-semibold {
+  color: #174C7C !important;
 }
 
 /* 3. 侧边栏链接使用品牌色 */
