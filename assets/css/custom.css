@@ -344,3 +344,59 @@ html:not(.dark) .footer-copyright a:hover {
   /* 悬停时变为纯黑色，并保持下划线，提供清晰的视觉反馈 */
   color: #000000;
 }
+
+/* =================================================================== */
+/*          [Custom] Light Theme Brand Color for Headings             */
+/* =================================================================== */
+
+/*
+ * 目标：让亮色主题下的标题颜色使用品牌色 #174C7C（与 logo 一致）
+ * 应用范围：内容区域的所有标题（h1-h6）以及特定组件
+*/
+
+/* 1. 内容区域的所有标题使用品牌色 */
+html:not(.dark) .content :where(h1, h2, h3, h4, h5, h6):not(:where([class~=not-prose],[class~=not-prose] *)) {
+  color: #174C7C !important;
+}
+
+/* 2. 导航栏标题也使用品牌色 */
+html:not(.dark) .nav-container a {
+  color: #174C7C;
+}
+
+html:not(.dark) .nav-container a:hover {
+  color: #0f3655;
+}
+
+/* 2.1 导航栏站点标题使用品牌色 */
+html:not(.dark) .nav-container .nextra-nav-title {
+  color: #174C7C !important;
+}
+
+html:not(.dark) .nav-container .nextra-nav-title:hover {
+  color: #0f3655 !important;
+}
+
+/* 3. 侧边栏链接使用品牌色 */
+html:not(.dark) .sidebar-container a {
+  color: #174C7C;
+}
+
+html:not(.dark) .sidebar-container a:hover {
+  color: #0f3655;
+}
+
+/* 4. 侧边栏激活项使用品牌色 */
+html:not(.dark) .sidebar-active-item {
+  color: #174C7C !important;
+  background-color: rgba(23, 76, 124, 0.1);
+}
+
+/* 5. 链接颜色使用品牌色 */
+html:not(.dark) .content :where(a):not(:where([class~=not-prose],[class~=not-prose] *)) {
+  color: #174C7C;
+}
+
+html:not(.dark) .content :where(a):not(:where([class~=not-prose],[class~=not-prose] *)):hover {
+  color: #0f3655;
+}
