@@ -1,27 +1,50 @@
 <div class="footer-wrapper">
     <div class="footer-container">
+        <!-- 导航链接 -->
         <ul class="footer-links">
             {{- $pages := slice
+                (dict "id" "about" "title" "关于我们")
                 (dict "id" "contact" "title" "联系我们")
                 (dict "id" "privacy-policy" "title" "隐私政策")
                 (dict "id" "terms-of-service" "title" "服务条款")
             -}}
     
-            {{- /* 遍历列表，我们给当前遍历的字典起个名字叫 $page_dict */ -}}
             {{- range $page_dict := $pages }}
                 {{- $path := path.Join .Page.Language.Lang $page_dict.id -}}
-    
-                {{- /* 只用 with 来检查页面是否存在并获取链接，但不使用它的标题 */ -}}
                 {{- with site.GetPage $path -}}
                     <li><a href="{{ .RelPermalink }}">{{ $page_dict.title }}</a></li>
                 {{- end -}}
             {{- end -}}
-            <li>本站累计访问量：<span id="finicount_views"></span></li>
+            
+            <!-- RSS 订阅 -->
+            <li><a href="{{ "/index.xml" | absURL }}" target="_blank" rel="noopener">RSS 订阅</a></li>
+            
+            <!-- 站点地图 -->
+            <li><a href="{{ "/sitemap.xml" | absURL }}" target="_blank" rel="noopener">站点地图</a></li>
         </ul>
+        
+        <!-- 社交媒体 -->
+        {{- if .Site.Params.author.social -}}
+        <div class="footer-social" style="text-align: center; margin: 20px 0;">
+            {{- range .Site.Params.author.social -}}
+                <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; font-size: 14px;">
+                    {{ .name }}
+                </a>
+            {{- end -}}
+        </div>
+        {{- end -}}
+        
+        <!-- 访问统计 -->
+        <div style="text-align: center; margin: 15px 0; font-size: 14px;">
+            本站累计访问量：<span id="finicount_views"></span>
+        </div>
     
+        <!-- 版权信息 -->
         <div class="footer-copyright">
-            {{- $copyright := printf "© %d %s" now.Year site.Title -}}
+            {{- $copyright := printf "© %d %s. All Rights Reserved." now.Year site.Title -}}
             <a href="{{ "" | relLangURL }}">{{ $copyright | safeHTML }}</a>
+            <br>
+            <span style="font-size: 12px; opacity: 0.7;">Powered by Hugo & Hextra</span>
         </div>
     </div>
 </div>

@@ -9,12 +9,19 @@ enableEmoji: true
 hasCJKLanguage: true
 enableInlineShortcodes: true
 
+# Sitemap configuration
+sitemap:
+  changefreq: daily
+  filename: sitemap.xml
+  priority: 0.8
+
 services:  
   googleAnalytics:
     ID: "G-SECWWMY8WQ"
 
+# Output formats
 outputs:
-  home: [html]
+  home: [html, rss, json]
   page: [html]
   section: [html, rss]
 
@@ -32,6 +39,17 @@ markup:
   # enable hextra syntax highlight
   highlight:
     noClasses: false
+
+# Minify output
+minify:
+  minifyOutput: true
+  tdewolff:
+    html:
+      keepWhitespace: false
+    css:
+      precision: 1
+    js:
+      precision: 1
 
 menu:
   main:
@@ -53,7 +71,7 @@ menu:
       url: "https://github.com/justlovemaki"
       weight: 3
     - identifier: github   
-      name: 同性交友
+      name: GitHub
       weight: 4
       url: "https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily"
       params:
@@ -128,7 +146,7 @@ params:
       index: content
 
   comments:
-    enable: false
+    enable: true
     type: giscus
 
     giscus:
