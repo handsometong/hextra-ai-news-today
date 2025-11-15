@@ -1,33 +1,39 @@
 ---
-title: Contact
+title: Contact Us
 type: page
 sidebar:
   exclude: true
 ---
 
-# Contact
+# 联系方式
 
-Whether you want to share feedback, pitch a story, or explore a partnership, this is the place to start. Please mention the purpose in your subject line so I can route it quickly.
-
----
-
-## Collaboration scenarios
-
-### 1. Editorial features & interviews
-- Tell the story of your product, research, or workflow.
-- Provide core materials and schedule a 30-minute prep call.
-
-### 2. Community events & talks
-- Invite me to speak about AI industry takeaways, workflow design, or indie hacking.
-- Share logistics (topic, audience, recording plan) so we can align expectations.
-
-### 3. Media / institutional partnerships
-- Request content licensing, co-branded columns, or sponsorship packages.
-- Include distribution channels, launch timeline, and success metrics.
-
-### 4. Urgent matters
-- If you spot factual errors or copyright issues, mark the email subject as “URGENT” with supporting details. These take priority.
+无论你是想反馈产品体验、分享项目案例，还是策划合作，都欢迎与我联系。为了更快响应，请在邮件主题中写明需求类型。
 
 ---
 
-**Availability**: Monday–Friday, 09:00–18:00 GMT+8. Weekend or holiday requests may take longer, but I will get back to you. Thanks for reaching out!
+## 快速联络
+
+- **电子邮箱**： [742294220@qq.com](mailto:742294220@qq.com)  
+  工作日 24 小时内回复，复杂议题会在 48 小时内给出反馈或安排会议。
+
+
+## 我们适合的合作场景
+
+### 1. 内容共创 & 专题访谈
+- 分享你的产品实践、研究成果或团队故事。
+- 需求：准备核心素材，配合一次 30 分钟的线上沟通。
+
+### 2. 社区活动 & 讲座
+- 邀请我分享 AI 行业观察、工作流实践或独立开发经验。
+- 需求：确认主题、时间、目标受众以及是否公开回放。
+
+### 3. 媒体或机构合作
+- 需引用本站内容、定制专栏或寻求品牌合作。
+- 需求：说明传播渠道、上线时间与预期成果，我们会提供授权方案。
+
+### 4. 紧急或敏感事项
+- 如果你发现内容存在事实错误或版权问题，请在主题中注明「紧急」并附证据，我们会优先处理。
+
+---
+
+**工作时段**：周一至周五 09:00-18:00（GMT+8），周末与节假日会减速处理。谢谢理解，也期待你的来信。

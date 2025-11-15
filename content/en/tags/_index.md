@@ -7,10 +7,10 @@ sidebar:
   exclude: true
 ---
 
-## Tag navigator
+## 标签导航
 
-Use tags to jump directly to stories about models, industries, tools, research, or policy.
+想快速回顾同一主题的内容？通过标签可以按「模型」「行业」「工具」「研究」「政策」等维度筛选文章。
 
-- Each tag shows the number of related articles and the date of the latest update.
-- Combine the search bar with tags (e.g., `Agent` + `Open Source`) to focus on specific playbooks.
-- Want a new tag? Drop a comment or email and we’ll add it to the taxonomy.
+- 标签页会实时汇总相关文章数量与最新发布时间。
+- 组合搜索（如 `Agent` + `Open Source`）能帮助你定位更细分的实践案例。
+- 如果你希望新增某个标签，欢迎在任意文章底部留言告诉我们。

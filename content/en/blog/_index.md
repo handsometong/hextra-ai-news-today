@@ -1,5 +1,5 @@
 ---
-title: AI NEWS TODAY · Blog
+title: AI NEWS TODAY · 博客
 type: blog
 cascade:
   type: blog
@@ -7,23 +7,24 @@ sidebar:
   exclude: true
 ---
 
+
 {{< hextra/hero-badge link="index.xml" >}}
-  <span>Subscribe to the blog RSS</span>
+  <span>订阅博客 RSS</span>
   {{< icon name="rss" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
-The blog documents the craft behind the daily briefing: workflows, tools, experiments, and personal retrospectives. If the daily brief tells you *what* happened, the blog unpacks *how* we make sense of it and build with it.
+博客栏目记录了 AI 日报背后的方法论、工具实践与运营心得。如果日报解决“知道什么发生了”，这里则讨论“如何落地、如何判断”。
 
-### Topics we cover
+### 我们写的主题
 
-- **Making-of notes** – capture, cleaning, formatting, and publishing pipelines for independent media makers.
-- **Product field notes** – from idea to launch with candid lessons about AI-driven products.
-- **Creator journeys** – independent hacking, content entrepreneurship, and sustainable routines.
+- **制作笔记**：分享抓取、清洗、排版与发布流程，帮助你搭建自己的资讯产品。
+- **产业场景**：记录从产品构想到上线的完整路径，包含踩坑与复盘。
+- **个人成长**：独立开发、自由职业与内容创业的经验总结。
 
-### How to participate
+### 如何参与
 
-- Leave a giscus comment under any post.
-- Pitch your story via [justlikemaki@qq.com](mailto:justlikemaki@qq.com).
-- Join the WeChat community to discuss workflows with other readers.
+- 在文章底部评论或使用 giscus 留言。
+- 向 [742294220@qq.com](mailto:742294220@qq.com) 投稿你的故事。
+- 通过微信社群与其他读者一起讨论 workflow。
 
-This is our lab for long-form ideas—expect in-depth case studies, interviews, and toolkits designed to be remixed by the community.
+欢迎把这里当作一个实验室：我们会持续发布长篇案例、访谈与工具包，希望能与更多创作者串联起来。

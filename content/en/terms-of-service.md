@@ -5,68 +5,68 @@ sidebar:
   exclude: true
 ---
 
-# Terms of Service
+# 服务条款
 
-*Effective date: 1 June 2025*
+*生效日期：2025 年 6 月 1 日*
 
-Thanks for visiting **AI News Today** (“the Site”). By accessing or using any part of the service you agree to the following terms. If you disagree, please discontinue use.
+欢迎你使用 **AI News Today**（以下简称“本站”）。访问或使用本站即表示你同意遵守以下条款。若不同意，请立即停止使用。
 
 ---
 
-## 1. Service overview
+## 1. 服务内容
 
-- We publish AI briefings, long-form articles, downloadable resources, and community updates.
-- Certain features are limited to registered users, subscribers, or partners.
-- Features may change over time; we aim to announce major updates in advance.
+- 提供 AI 资讯日报、深度文章、下载资源与互动社区等内容。
+- 部分功能仅对注册用户、邮件订阅者或合作伙伴开放。
+- 我们可能根据需要更新、扩展或停止某些功能，但会尽量提前告知。
 
-## 2. Accounts & security
+## 2. 账户与安全
 
-- Provide accurate information when registering and keep your credentials confidential.
-- Notify us immediately if you suspect unauthorized use. You are responsible for activity that happens under your account.
-- We may suspend or terminate accounts that are fraudulent, abusive, or inactive for long periods.
+- 注册时需保证信息真实、完整，并自行维护账号密码安全。
+- 如发现未经授权的使用，请立刻通知我们。因你未妥善保管导致的损失需自行承担。
+- 我们可在必要时暂停或终止异常、违规或长期不活跃的账号。
 
-## 3. Payments & subscriptions
+## 3. 付费与订阅
 
-- Pricing, billing cycles, and refund options are shown on the checkout page.
-- Plans renew automatically unless you cancel through your account or payment provider.
-- Except for legally required refunds or trial guarantees, payments for delivered services are non-refundable.
+- 如你购买付费服务，具体价格、周期、权益与退款规则以购买页面为准。
+- 默认自动续费，你可随时在账户或支付渠道中取消。
+- 除法律规定或承诺的试用退款外，已提供服务的订阅费用不予退还。
 
-## 4. Content & intellectual property
+## 4. 内容与知识产权
 
-- Original content (text, images, audio/video, data) is owned by handsometong or licensed partners.
-- You may not copy, resell, bulk scrape, or redistribute content without written permission.
-- When quoting our work, include attribution and respect third-party license terms.
+- 本站发布的原创内容（含文字、图片、音视频、数据等）版权归 AI NEWS TODAY 或授权方所有。
+- 未经许可，禁止复制、转载、售卖或大规模抓取。
+- 引用内容须注明来源；如涉及第三方版权，请遵守对应条款。
 
-## 5. User responsibilities
+## 5. 用户责任
 
-Do not:
-- Upload illegal, infringing, defamatory, hateful, or pornographic material.
-- Send spam, run competing marketing campaigns, or solicit users without consent.
-- Use bots, crawlers, reverse engineering, or exploits to harm the service.
-- Impersonate others or submit misleading information.
+你承诺不会：
+- 上传违法、侵权、诽谤、侮辱、色情或其他不当内容；
+- 利用本站传播垃圾信息、诱导分享或从事商业竞品活动；
+- 通过爬虫、扫描、逆向等方式破坏网站安全或牟利；
+- 冒用他人身份或发布虚假信息。
 
-We reserve the right to remove content, restrict access, and pursue legal remedies if necessary.
+若出现上述行为，我们有权删除内容、限制访问或追究法律责任。
 
-## 6. Third-party links
+## 6. 第三方链接与服务
 
-The Site may contain links to external services. They operate independently; please review their terms and privacy practices before using them. We are not responsible for their content or actions.
+本站可能含有第三方网站或工具的链接，仅为提供便利。它们的内容与隐私做法不受我们控制，你需自行判断风险。
 
-## 7. Disclaimers
+## 7. 免责声明
 
-- Content is provided for informational purposes only and should not be treated as financial, legal, medical, or other professional advice.
-- We strive for accuracy but cannot guarantee completeness or timeliness. You assume all risk from using the information.
-- We are not liable for losses caused by force majeure events, network outages, or third-party failures.
+- 本站提供的信息仅供参考，不构成投资、法律、医疗或其他专业建议。
+- 我们力求准确，但不保证所有内容绝对完整或实时；因使用信息造成的损失需由你自行承担。
+- 因不可抗力、网络故障或第三方服务中断导致的损失，我们不承担赔偿责任。
 
-## 8. Termination & changes
+## 8. 终止与变更
 
-- We may terminate or suspend access if you violate these terms or harm the community.
-- When we update the terms, we will post the revision date and, for major changes, notify you via the Site or email. Continued use means you accept the updated terms.
+- 如你违反条款或损害平台秩序，我们可随时停止向你提供服务，并保留追究责任的权利。
+- 若我们对条款进行重大变更，将以站内公告或邮件方式通知。继续使用即视为接受新条款。
 
-## 9. Governing law & disputes
+## 9. 适用法律与争议解决
 
-- These terms are governed by the laws of the State of California, USA, without regard to conflict-of-law principles.
-- Disputes should first be resolved through good-faith negotiation; if unresolved, they shall be submitted to the courts located in Santa Clara County, California.
+- 本条款受美国加利福尼亚州法律管辖，不考虑法律冲突原则。
+- 因条款或服务引发的争议，应首先友好协商；若协商不成，提交位于加州圣克拉拉县具有管辖权的法院解决。
 
-## 10. Contact
+## 10. 联系方式
 
-Questions about these terms? Email [justlikemaki@foxmail.com](mailto:justlikemaki@foxmail.com) for assistance or authorization requests.
+如对条款有疑问或需要授权，请发送邮件至 [justlikemaki@foxmail.com](mailto:justlikemaki@foxmail.com)。
